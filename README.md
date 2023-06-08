@@ -1,13 +1,42 @@
-- 👋 Hi, I’m @JR-Camacho
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on big projects
-- ¿📫 How to reach me? You can reach me through my social networks.
---¡Contact with me!--
-Email: josecamachoc0303@gmail.com
-WhatsApp: +1 (829) 496 - 0058
+Jose Camacho
 
-<!---
-JR-Camacho/JR-Camacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Web Developer | Data Science and Machine Learning
+
+Welcome to my GitHub profile! I'm Jose Camacho, a passionate Full Stack web developer with a particular focus on data science and machine learning.
+
+
+Technologies:
+
+- Frontend: React.js, Angular
+- Backend: Laravel, Node.js (Express.js, Nest.js)
+- Languages: TypeScript/JavaScript, Python
+- ML and DS Libraries: Tensorflow, Numpy, Pandas, Seaboarn, Matplotlib
+- Databases: MySQL, SQLServer, MongoDB
+- Servers: Nginx, Apache
+
+
+Experience:
+
+I have experience working on various web development projects, both on the frontend and backend. I have worked with frameworks like React and Angular to create interactive and responsive user interfaces. On the backend, I have utilized Laravel, Node.js with Express.js and Nest.js to develop efficient and scalable servers.
+
+
+Data Science and Machine Learning:
+
+In addition to my web development experience, I have a strong interest in data science and machine learning. I use Python along with libraries such as TensorFlow, NumPy, and Matplotlib to develop machine learning models and perform data analysis.
+
+
+Featured Projects
+
+Here are some of my featured projects:
+
+1. [ClasificatorAI](JR-Camacho/ClasificatorAI): Image classification project using Machine Learning, with interesting web interface worked on React.js.
+
+
+Contact
+
+If you'd like to get in touch or collaborate on a project, feel free to reach me through the following channels:
+
+- Email: [josecamachoc0303@gmail.com]
+- LinkedIn: (https://www.linkedin.com/in/jos%C3%A9-camacho/)
+
+Thank you for visiting my GitHub profile! I hope you find my projects and contributions interesting!
