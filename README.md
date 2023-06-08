@@ -1,5 +1,3 @@
-Jose Camacho
-
 Full Stack Web Developer | Data Science and Machine Learning
 
 Welcome to my GitHub profile! I'm Jose Camacho, a passionate Full Stack web developer with a particular focus on data science and machine learning.
