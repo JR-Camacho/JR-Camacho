@@ -21,7 +21,7 @@ In addition to my web development experience, I have a strong interest in data s
 Here are some of my featured projects:
 
 1. [ClasificatorAI](JR-Camacho/ClasificatorAI): Image classification project using Machine Learning, with interesting web interface worked on React.js.
-2. [security_process](JR-Camacho/security_process):Spam detector, classification of network flows, divided into three main modules (API, Slient Side, Machine learning), developed with Python and implemented in React.js.
+2. [security_processes](JR-Camacho/security_processes): Spam detector, classification of network flows, divided into three main modules (API, Slient Side, Machine learning), developed with Python and implemented in React.js.
 
 
 <h3 align="left">Contact:</h3>
